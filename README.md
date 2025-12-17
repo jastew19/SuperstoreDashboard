@@ -1,0 +1,2 @@
+# Superstore Sales Dashboard
+The superstore sales dashboard was created as a part of a workshop presentation. The purpose of each workshop is to present how to use a relevant tool in the data science field. My team presented a live demo by building the dashboard while explaining the various functionalities of PowerBi. This project showcases my ability to learn and develop new technical skills along with valuable soft skills like presentation. 
